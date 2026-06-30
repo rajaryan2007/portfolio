@@ -26,6 +26,6 @@ This project was engineered with a strict focus on speed and minimal payload.
 To run this project locally, simply clone the repository and open the `index.html` file in your browser—no build steps or package installations required!
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/rajaryan2007/portfolio.git
+
 # Open index.html in your favorite browser
